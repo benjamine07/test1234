@@ -1,3 +1,8 @@
-#### This is step 1: Create ROS Package
+## This is step 1: Create ROS Package
 
-## Step (a)
+### Step (a): Update System
+
+'''
+sudo apt-get update
+sudo apt-get upgrade
+'''
